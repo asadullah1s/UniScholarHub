@@ -1,0 +1,10 @@
+[
+  { "id": "china", "name": "China", "code": "CN", "region": "Asia", "flag": "🇨🇳" },
+  { "id": "germany", "name": "Germany", "code": "DE", "region": "Europe", "flag": "🇩🇪" },
+  { "id": "united-kingdom", "name": "United Kingdom", "code": "GB", "region": "Europe", "flag": "🇬🇧" },
+  { "id": "united-states", "name": "United States", "code": "US", "region": "North America", "flag": "🇺🇸" },
+  { "id": "turkey", "name": "Turkey", "code": "TR", "region": "Middle East", "flag": "🇹🇷" },
+  { "id": "hungary", "name": "Hungary", "code": "HU", "region": "Europe", "flag": "🇭🇺" },
+  { "id": "malaysia", "name": "Malaysia", "code": "MY", "region": "Asia", "flag": "🇲🇾" },
+  { "id": "pakistan", "name": "Pakistan", "code": "PK", "region": "Asia", "flag": "🇵🇰" }
+]

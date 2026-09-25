@@ -1,0 +1,416 @@
+[
+  {
+    "id": "u1",
+    "slug": "tsinghua-university",
+    "name": "Tsinghua University",
+    "shortName": "Tsinghua",
+    "country": "china",
+    "countryName": "China",
+    "city": "Beijing",
+    "region": "Asia",
+    "type": "Public",
+    "founded": 1911,
+    "description": "Tsinghua University is a leading research university in Beijing, renowned for engineering, computer science and business programs, with a strong international student community.",
+    "logo": "TU",
+    "images": [],
+    "officialWebsite": "https://www.tsinghua.edu.cn/en/",
+    "admissionWebsite": "https://www.studyatsinghua.edu.cn/",
+    "applicationUrl": "https://www.studyatsinghua.edu.cn/",
+    "admissionOpenDate": "2026-11-01",
+    "admissionCloseDate": "2027-02-28",
+    "requirements": {
+      "academicQualification": "High school diploma (undergraduate) or Bachelor's degree (graduate)",
+      "minimumGPA": "3.0 / 4.0 or equivalent",
+      "ageRequirement": "Under 25 (undergraduate, scholarship applicants)",
+      "languageRequirement": "HSK 4+ for Chinese-taught programs",
+      "englishProficiency": "IELTS 6.0+ / TOEFL 80+ for English-taught programs",
+      "requiredDocuments": ["Passport copy", "Academic transcripts", "Diploma certificate", "Study/Research plan", "Recommendation letters", "Physical examination form"],
+      "nationalityRequirements": "Non-Chinese citizen in good health"
+    },
+    "programs": [
+      { "name": "Computer Science", "degree": "Master's", "duration": "3 years", "language": "English" },
+      { "name": "Electrical Engineering", "degree": "Bachelor's", "duration": "4 years", "language": "Chinese" },
+      { "name": "International Relations", "degree": "PhD", "duration": "4 years", "language": "English" }
+    ],
+    "scholarships": ["s1", "s5"],
+    "fees": [
+      { "type": "Tuition", "amount": 30000, "currency": "CNY", "frequency": "Per Year" },
+      { "type": "Registration", "amount": 500, "currency": "CNY", "frequency": "One Time" },
+      { "type": "Accommodation", "amount": 12000, "currency": "CNY", "frequency": "Per Year" },
+      { "type": "Application Fee", "amount": 400, "currency": "CNY", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Check eligibility for your chosen program and scholarship",
+      "Prepare required documents (transcripts, passport, recommendation letters)",
+      "Create an account on the official Study at Tsinghua application portal",
+      "Complete the online application form",
+      "Upload all required documents",
+      "Pay the application fee (if applicable)",
+      "Submit the application before the deadline",
+      "Track application status through the portal",
+      "Receive admission and scholarship decision by email"
+    ],
+    "contact": { "email": "admissions@tsinghua.edu.cn", "office": "International Students Office" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u2",
+    "slug": "technical-university-of-munich",
+    "name": "Technical University of Munich",
+    "shortName": "TUM",
+    "country": "germany",
+    "countryName": "Germany",
+    "city": "Munich",
+    "region": "Europe",
+    "type": "Public",
+    "founded": 1868,
+    "description": "TUM is one of Europe's top technical universities, known for engineering, natural sciences, medicine and management, with low or no tuition fees for most programs.",
+    "logo": "TUM",
+    "images": [],
+    "officialWebsite": "https://www.tum.de/en/",
+    "admissionWebsite": "https://www.tum.de/en/studies/application",
+    "applicationUrl": "https://www.tum.de/en/studies/application",
+    "admissionOpenDate": "2026-05-01",
+    "admissionCloseDate": "2026-07-15",
+    "requirements": {
+      "academicQualification": "Recognized higher education entrance qualification",
+      "minimumGPA": "Equivalent of German grade 2.5 or better recommended",
+      "ageRequirement": "No strict age limit",
+      "languageRequirement": "German B2+ for German-taught programs",
+      "englishProficiency": "IELTS 6.5+ / TOEFL 88+ for English-taught programs",
+      "requiredDocuments": ["Certified transcripts", "Language certificates", "CV", "Motivation letter", "Passport photo"],
+      "nationalityRequirements": "Open to all nationalities"
+    },
+    "programs": [
+      { "name": "Mechanical Engineering", "degree": "Master's", "duration": "2 years", "language": "English" },
+      { "name": "Informatics", "degree": "Bachelor's", "duration": "3 years", "language": "German" }
+    ],
+    "scholarships": ["s2"],
+    "fees": [
+      { "type": "Tuition", "amount": 0, "currency": "EUR", "frequency": "Per Semester" },
+      { "type": "Semester Contribution", "amount": 144, "currency": "EUR", "frequency": "Per Semester" },
+      { "type": "Application Fee", "amount": 0, "currency": "EUR", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Check program-specific eligibility requirements",
+      "Prepare certified academic documents and language certificates",
+      "Apply through TUMonline application portal",
+      "Upload all required documents",
+      "Submit application before the semester deadline",
+      "Await admission decision",
+      "Apply for a German student visa (if required)",
+      "Enroll and register for courses"
+    ],
+    "contact": { "email": "studium@tum.de", "office": "TUM International Center" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u3",
+    "slug": "university-of-oxford",
+    "name": "University of Oxford",
+    "shortName": "Oxford",
+    "country": "united-kingdom",
+    "countryName": "United Kingdom",
+    "city": "Oxford",
+    "region": "Europe",
+    "type": "Public",
+    "founded": 1096,
+    "description": "The University of Oxford is one of the world's oldest and most prestigious universities, offering a wide range of undergraduate and postgraduate programs across all major fields.",
+    "logo": "OX",
+    "images": [],
+    "officialWebsite": "https://www.ox.ac.uk/",
+    "admissionWebsite": "https://www.ox.ac.uk/admissions",
+    "applicationUrl": "https://www.ox.ac.uk/admissions",
+    "admissionOpenDate": "2026-09-01",
+    "admissionCloseDate": "2027-01-15",
+    "requirements": {
+      "academicQualification": "Strong secondary or undergraduate academic record",
+      "minimumGPA": "Varies by course; typically top-tier grades expected",
+      "ageRequirement": "No strict age limit",
+      "languageRequirement": "Not applicable",
+      "englishProficiency": "IELTS 7.0+ (varies by course)",
+      "requiredDocuments": ["Personal statement", "Academic transcripts", "Reference letters", "Admissions test (if required)"],
+      "nationalityRequirements": "Open to all nationalities"
+    },
+    "programs": [
+      { "name": "Public Policy", "degree": "Master's", "duration": "1 year", "language": "English" },
+      { "name": "Philosophy, Politics and Economics", "degree": "Bachelor's", "duration": "3 years", "language": "English" }
+    ],
+    "scholarships": ["s3"],
+    "fees": [
+      { "type": "Tuition", "amount": 28950, "currency": "GBP", "frequency": "Per Year" },
+      { "type": "College Fee", "amount": 3000, "currency": "GBP", "frequency": "Per Year" },
+      { "type": "Application Fee", "amount": 75, "currency": "GBP", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Choose a course and check entry requirements",
+      "Register with UCAS or the relevant graduate application system",
+      "Prepare a personal statement and references",
+      "Submit academic transcripts",
+      "Sit any required admissions test",
+      "Attend interview if shortlisted",
+      "Receive offer decision",
+      "Accept offer and apply for a visa"
+    ],
+    "contact": { "email": "undergraduate.admissions@admin.ox.ac.uk", "office": "Undergraduate Admissions Office" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u4",
+    "slug": "bogazici-university",
+    "name": "Boğaziçi University",
+    "shortName": "Boğaziçi",
+    "country": "turkey",
+    "countryName": "Turkey",
+    "city": "Istanbul",
+    "region": "Middle East",
+    "type": "Public",
+    "founded": 1863,
+    "description": "Boğaziçi University is a leading Turkish public research university overlooking the Bosphorus, popular among international scholarship students under the Türkiye Scholarships program.",
+    "logo": "BU",
+    "images": [],
+    "officialWebsite": "https://www.boun.edu.tr/en",
+    "admissionWebsite": "https://www.turkiyeburslari.gov.tr/en",
+    "applicationUrl": "https://www.turkiyeburslari.gov.tr/en",
+    "admissionOpenDate": "2027-01-10",
+    "admissionCloseDate": "2027-02-20",
+    "requirements": {
+      "academicQualification": "High school diploma (undergraduate) or Bachelor's degree (graduate)",
+      "minimumGPA": "70% overall (undergraduate) / 75% (graduate) as a general guide",
+      "ageRequirement": "Under 21 (undergraduate) / Under 30 (Master's) / Under 35 (PhD)",
+      "languageRequirement": "Turkish proficiency gained during scholarship preparatory year",
+      "englishProficiency": "Required for English-taught programs (varies by department)",
+      "requiredDocuments": ["Diploma", "Transcript", "Passport copy", "Statement of purpose"],
+      "nationalityRequirements": "International applicants (excluding Turkish citizens)"
+    },
+    "programs": [
+      { "name": "Business Administration", "degree": "Bachelor's", "duration": "4 years", "language": "English" },
+      { "name": "Computer Engineering", "degree": "Master's", "duration": "2 years", "language": "English" }
+    ],
+    "scholarships": ["s4"],
+    "fees": [
+      { "type": "Tuition", "amount": 0, "currency": "USD", "frequency": "Per Year" },
+      { "type": "Application Fee", "amount": 0, "currency": "USD", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Check Türkiye Scholarships eligibility criteria",
+      "Create an account on the Türkiye Scholarships portal",
+      "Select up to 12 program preferences",
+      "Upload required documents",
+      "Submit the online application before the deadline",
+      "Attend interview if shortlisted",
+      "Receive placement result",
+      "Complete Turkish language preparatory year (if required)"
+    ],
+    "contact": { "email": "info@turkiyeburslari.gov.tr", "office": "Türkiye Scholarships Program Office" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u5",
+    "slug": "eotvos-lorand-university",
+    "name": "Eötvös Loránd University",
+    "shortName": "ELTE",
+    "country": "hungary",
+    "countryName": "Hungary",
+    "city": "Budapest",
+    "region": "Europe",
+    "type": "Public",
+    "founded": 1635,
+    "description": "ELTE is one of Hungary's largest and oldest universities, a popular destination for Stipendium Hungaricum scholarship recipients across a broad range of disciplines.",
+    "logo": "ELTE",
+    "images": [],
+    "officialWebsite": "https://www.elte.hu/en/",
+    "admissionWebsite": "https://stipendiumhungaricum.hu/",
+    "applicationUrl": "https://apply.stipendiumhungaricum.hu/",
+    "admissionOpenDate": "2026-11-15",
+    "admissionCloseDate": "2027-01-15",
+    "requirements": {
+      "academicQualification": "Secondary school certificate or Bachelor's degree",
+      "minimumGPA": "Good academic standing",
+      "ageRequirement": "No strict age limit",
+      "languageRequirement": "Not required for English-taught programs",
+      "englishProficiency": "IELTS 6.0+ / TOEFL 80+ (varies by program)",
+      "requiredDocuments": ["Motivation letter", "Academic transcripts", "Language certificate", "Medical certificate"],
+      "nationalityRequirements": "Citizens of Stipendium Hungaricum partner countries"
+    },
+    "programs": [
+      { "name": "Psychology", "degree": "Bachelor's", "duration": "3 years", "language": "English" },
+      { "name": "Data Science", "degree": "Master's", "duration": "2 years", "language": "English" }
+    ],
+    "scholarships": ["s6"],
+    "fees": [
+      { "type": "Tuition", "amount": 0, "currency": "EUR", "frequency": "Per Year" },
+      { "type": "Application Fee", "amount": 0, "currency": "EUR", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Check Stipendium Hungaricum eligibility for your country",
+      "Register on the Stipendium Hungaricum online platform",
+      "Choose up to 2 institution/program preferences",
+      "Upload required documents",
+      "Submit application before national deadline",
+      "Pass entrance exam/interview if required",
+      "Receive scholarship decision",
+      "Apply for student visa and residence permit"
+    ],
+    "contact": { "email": "international@elte.hu", "office": "International Directorate" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u6",
+    "slug": "university-of-malaya",
+    "name": "University of Malaya",
+    "shortName": "UM",
+    "country": "malaysia",
+    "countryName": "Malaysia",
+    "city": "Kuala Lumpur",
+    "region": "Asia",
+    "type": "Public",
+    "founded": 1905,
+    "description": "University of Malaya is Malaysia's oldest and highest-ranked university, offering affordable, high-quality education with a diverse international student body.",
+    "logo": "UM",
+    "images": [],
+    "officialWebsite": "https://www.um.edu.my/",
+    "admissionWebsite": "https://ipgm.um.edu.my/",
+    "applicationUrl": "https://ipgm.um.edu.my/",
+    "admissionOpenDate": "2026-08-01",
+    "admissionCloseDate": "2026-11-30",
+    "requirements": {
+      "academicQualification": "Bachelor's degree with good academic standing (postgraduate)",
+      "minimumGPA": "CGPA 3.0/4.0 or equivalent",
+      "ageRequirement": "No strict age limit",
+      "languageRequirement": "Not required",
+      "englishProficiency": "IELTS 6.0+ / TOEFL 80+",
+      "requiredDocuments": ["Transcripts", "Passport copy", "Research proposal (postgraduate)", "Reference letters"],
+      "nationalityRequirements": "Open to all nationalities"
+    },
+    "programs": [
+      { "name": "Business Administration", "degree": "Master's", "duration": "1.5 years", "language": "English" },
+      { "name": "Medicine", "degree": "Bachelor's", "duration": "5 years", "language": "English" }
+    ],
+    "scholarships": [],
+    "fees": [
+      { "type": "Tuition", "amount": 8000, "currency": "USD", "frequency": "Per Year" },
+      { "type": "Application Fee", "amount": 100, "currency": "USD", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Check program eligibility requirements",
+      "Prepare transcripts and supporting documents",
+      "Apply online through the University of Malaya application portal",
+      "Pay the application fee",
+      "Submit application before the deadline",
+      "Attend interview (postgraduate research programs)",
+      "Receive offer letter",
+      "Apply for student pass"
+    ],
+    "contact": { "email": "ipgm@um.edu.my", "office": "Institute of Postgraduate Studies" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u7",
+    "slug": "national-university-of-sciences-and-technology",
+    "name": "National University of Sciences and Technology",
+    "shortName": "NUST",
+    "country": "pakistan",
+    "countryName": "Pakistan",
+    "city": "Islamabad",
+    "region": "Asia",
+    "type": "Public",
+    "founded": 1991,
+    "description": "NUST is one of Pakistan's top-ranked universities, known for engineering, computer science and business programs, with growing international exchange partnerships.",
+    "logo": "NUST",
+    "images": [],
+    "officialWebsite": "https://nust.edu.pk/",
+    "admissionWebsite": "https://admissions.nust.edu.pk/",
+    "applicationUrl": "https://admissions.nust.edu.pk/",
+    "admissionOpenDate": "2027-03-01",
+    "admissionCloseDate": "2027-05-15",
+    "requirements": {
+      "academicQualification": "Intermediate/A-Levels (undergraduate) or Bachelor's degree (graduate)",
+      "minimumGPA": "60% and above in NUST Entry Test / relevant academic record",
+      "ageRequirement": "No strict age limit",
+      "languageRequirement": "Not applicable",
+      "englishProficiency": "IELTS 6.0+ for international applicants",
+      "requiredDocuments": ["Academic transcripts", "NUST Entry Test result", "CNIC/Passport", "Domicile (local applicants)"],
+      "nationalityRequirements": "Open to Pakistani and international applicants"
+    },
+    "programs": [
+      { "name": "Software Engineering", "degree": "Bachelor's", "duration": "4 years", "language": "English" },
+      { "name": "Business Administration", "degree": "Master's", "duration": "2 years", "language": "English" }
+    ],
+    "scholarships": ["s5"],
+    "fees": [
+      { "type": "Tuition", "amount": 250000, "currency": "PKR", "frequency": "Per Year" },
+      { "type": "Admission Fee", "amount": 25000, "currency": "PKR", "frequency": "One Time" },
+      { "type": "Application Fee", "amount": 3000, "currency": "PKR", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Register for the NUST Entry Test (NET)",
+      "Prepare and submit academic documents",
+      "Apply online through the NUST admissions portal",
+      "Pay application/test fee",
+      "Sit the entry test",
+      "Check merit list",
+      "Confirm admission and pay dues",
+      "Attend orientation"
+    ],
+    "contact": { "email": "admissions@nust.edu.pk", "office": "Directorate of Admissions" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "id": "u8",
+    "slug": "massachusetts-institute-of-technology",
+    "name": "Massachusetts Institute of Technology",
+    "shortName": "MIT",
+    "country": "united-states",
+    "countryName": "United States",
+    "city": "Boston",
+    "region": "North America",
+    "type": "Private",
+    "founded": 1861,
+    "description": "A leading American research university known for engineering, technology and management programs with a highly diverse international student population.",
+    "logo": "MIT",
+    "images": [],
+    "officialWebsite": "https://www.mit.edu/",
+    "admissionWebsite": "https://admissions.mit.edu/",
+    "applicationUrl": "https://admissions.mit.edu/",
+    "admissionOpenDate": "2026-09-01",
+    "admissionCloseDate": "2027-01-01",
+    "requirements": {
+      "academicQualification": "Strong secondary school record with advanced coursework",
+      "minimumGPA": "Highly competitive; no strict minimum published",
+      "ageRequirement": "No strict age limit",
+      "languageRequirement": "Not applicable",
+      "englishProficiency": "TOEFL 90+ / IELTS 7.0+ recommended",
+      "requiredDocuments": ["Transcripts", "Standardized test scores (optional)", "Essays", "Recommendation letters"],
+      "nationalityRequirements": "Open to all nationalities; need-aware for international applicants"
+    },
+    "programs": [
+      { "name": "Electrical Engineering and Computer Science", "degree": "Bachelor's", "duration": "4 years", "language": "English" }
+    ],
+    "scholarships": [],
+    "fees": [
+      { "type": "Tuition", "amount": 57590, "currency": "USD", "frequency": "Per Year" },
+      { "type": "Application Fee", "amount": 85, "currency": "USD", "frequency": "One Time" }
+    ],
+    "applicationProcess": [
+      "Review admission requirements and deadlines",
+      "Prepare transcripts, essays and recommendations",
+      "Submit application through the official portal",
+      "Pay the application fee or request a waiver",
+      "Complete an optional interview",
+      "Await admission decision",
+      "Apply for financial aid if needed",
+      "Accept offer and enroll"
+    ],
+    "contact": { "email": "admissions@mit.edu", "office": "Office of Undergraduate Admissions" },
+    "source": "Sample/Demo data compiled from public official pages — verify all details on the official website before applying",
+    "lastUpdated": "2026-09-01"
+  }
+]
